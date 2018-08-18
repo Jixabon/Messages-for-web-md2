@@ -106,4 +106,15 @@ h1, h2, h3, h4, h5, h6, .header {
 .y0Kqxd {
   padding-top: 68px;
 }
+
+.QqyDfe {
+  position: relative;
+  visibility: hidden;
+}
+
+.QqyDfe:after {
+  content: 'Start Chat';
+  position: absolute;
+  visibility: visible;
+}
 /*# sourceMappingURL=styles.css.map */
