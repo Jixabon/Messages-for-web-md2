@@ -1,0 +1,116 @@
+.themedBackground, .ZGYTxc {
+  background-color: transparent;
+  background-image: none;
+}
+
+.themedIncomingBubble, .lXNy8e {
+  background-color: #f1f3f4;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.JZ9Tfd .lXNy8e.zshGI {
+  background-color: #3c4043;
+  color: white;
+}
+
+.YxoJ7 {
+  background-color: #d2e3fc;
+  color: #174ea6;
+}
+
+.JZ9Tfd .YxoJ7.zshGI {
+  background-color: #476a9e;
+  color: #d2e3fc;
+}
+
+.z2vZzb, .MTdgfc {
+  background-color: #1a73e8;
+  fill: white;
+}
+
+.JZ9Tfd .z2vZzb, .JZ9Tfd .MTdgfc {
+  background-color: #5f6368;
+}
+
+.q2eepc, .G8MNH {
+  color: #1a73e8;
+}
+
+.BXXoQe {
+  background-color: rgba(255, 255, 255, 0.96);
+}
+
+.JZ9Tfd .BXXoQe {
+  background-color: #333;
+}
+
+.JZ9Tfd .w2DTdc, .JZ9Tfd .y9aaxd {
+  color: white;
+  fill: white;
+}
+
+.w2DTdc, .y9aaxd {
+  color: rgba(0, 0, 0, 0.68);
+  fill: rgba(0, 0, 0, 0.54);
+}
+
+h1, h2, h3, h4, h5, h6, .header {
+  font-family: Google Sans,Roboto,arial,sans-serif;
+}
+
+.tuQbQc, .YjI0kb, .uDNKib, .JpsRoc {
+  font: 400 18px/32px Google Sans,Roboto,arial,sans-serif;
+}
+
+.ReFmyd, .QqyDfe {
+  font: 400 15px/24px Google Sans Regular,Roboto,arial,sans-serif;
+}
+
+.D2H8M, .x4Ssl, .sbb62e, .n4jTu, .hIypqc {
+  font-family: Google Sans,Roboto,arial,sans-serif;
+}
+
+.SkNmi {
+  font: 400 13px/20px Google Sans, Roboto,arial,sans-serif;
+}
+
+.info.conversations-view #snippet.conversations-view {
+  color: rgba(0, 0, 0, 0.54);
+  font: 400 14px/20px Roboto,arial,sans-serif;
+  line-height: 16px;
+  margin-top: 5px;
+}
+
+.z2vZzb {
+  -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.14), 0 3px 4px 0 rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0);
+          box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.14), 0 3px 4px 0 rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0);
+}
+
+.Hrl1I {
+  position: relative;
+}
+
+.oVWr3d {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.LI5sDf {
+  background: none;
+}
+
+.oZFTfb {
+  -webkit-box-shadow: 0 1px 5px 0 rgba(60, 64, 67, 0.15), 0 4px 4px 0 rgba(60, 64, 67, 0.1), 0 -0.1px 3px 0 rgba(60, 64, 67, 0.08);
+          box-shadow: 0 1px 5px 0 rgba(60, 64, 67, 0.15), 0 4px 4px 0 rgba(60, 64, 67, 0.1), 0 -0.1px 3px 0 rgba(60, 64, 67, 0.08);
+}
+
+.JPdR6b {
+  border-radius: 8px;
+}
+
+.y0Kqxd {
+  padding-top: 68px;
+}
+/*# sourceMappingURL=styles.css.map */

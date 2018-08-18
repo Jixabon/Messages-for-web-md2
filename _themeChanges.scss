@@ -1,0 +1,55 @@
+.themedBackground, .ZGYTxc { // chat background
+    background-color: transparent;
+    background-image: none;
+}
+
+.themedIncomingBubble, .lXNy8e { // incoming bubble
+    background-color: $custom-incoming-light;
+    color: $custom-incoming-dark;
+}
+
+.JZ9Tfd .lXNy8e.zshGI { // incoming bubble dark mode
+    background-color: #3c4043;
+    color: white;
+}
+
+.YxoJ7 { // outgoing bubble
+    background-color: $custom-outgoing-light;
+    color: $custom-outgoing-dark;
+}
+
+.JZ9Tfd .YxoJ7.zshGI { // outgoing bubble dark mode
+    background-color: #476a9e;
+    color: $custom-outgoing-light;
+}
+
+.z2vZzb, .MTdgfc { // new conversation button
+    background-color: $custom-bright-blue;
+    fill: white;
+}
+
+.JZ9Tfd .z2vZzb, .JZ9Tfd .MTdgfc { // send button dark mode
+    background-color: #5f6368;
+}
+
+.q2eepc, .G8MNH { // send button
+    color: $custom-bright-blue;
+}
+
+.BXXoQe { // chat heading container
+    background-color: rgba(255,255,255,.96);
+}
+
+.JZ9Tfd .BXXoQe { // chat heading container dark mode
+    background-color: #333;
+}
+
+.JZ9Tfd .w2DTdc, .JZ9Tfd .y9aaxd  { // chat heading dark mode
+    color: white;
+    fill: white;
+}
+
+.w2DTdc, .y9aaxd { // chat heading
+    color: rgba(0,0,0,.68);
+    fill: $custom-black-transparent-54;
+}
